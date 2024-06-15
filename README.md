@@ -75,3 +75,18 @@ Hola Amigo!!!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham66020&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!-- Contributor Streak Animation -->
+<p align="center">
+  <div style="position: relative; width: 100%; max-width: 600px; height: 40px; background-color: #2d2d2d; border-radius: 5px; overflow: hidden;">
+    <div style="position: absolute; width: 0%; height: 100%; background-color: #ffca28; animation: fillBar 2s forwards;"></div>
+    <div style="position: relative; z-index: 1; text-align: center; line-height: 40px; font-size: 18px; color: white;">Contributor Streak: 100 Days</div>
+  </div>
+</p>
+
+<style>
+@keyframes fillBar {
+  from { width: 0%; }
+  to { width: 100%; }
+}
+</style>
+
