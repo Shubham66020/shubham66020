@@ -12,15 +12,6 @@ Hola Amigo!!!
 
 ---
 
-### 👨‍🎓 Academic Details
-| Year | Degree | Institute | CGPA/Marks(%) |
-|------|--------|-----------|---------------|
-| 2022 | B.Tech | RCET, BHILAI | 7.89 |
-| 2020 | XII (BSEB) | ORIENTAL COLLEGE | 74.2% |
-| 2018 | X (CBSE) | SCHOOL OF CREATIVE LEARNING | 88% |
-
----
-
 ### 🏆 Achievements
 - Finalist of IIITD (EPOCH) Hackathon 2024
 - Winner of Hack For Impact hackathon (RCET, Bhilai)
