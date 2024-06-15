@@ -12,14 +12,6 @@ Hola Amigo!!!
 
 ---
 
-### 🏆 Achievements
-- Finalist of IIITD (EPOCH) Hackathon 2024
-- Winner of Hack For Impact hackathon (RCET, Bhilai)
-- GOOGLE Badge for Generative AI, LLM, Responsible AI, Prompting In Vertex AI
-- Top 10 in I-innovate hackathon supported by RCET, BHILAI
-
----
-
 ### 💻 Technical Skills
 #### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
